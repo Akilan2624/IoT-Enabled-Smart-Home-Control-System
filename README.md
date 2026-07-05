@@ -1,6 +1,6 @@
 # IoT-Enabled Smart Home Control System
 
-## Overview
+## Overview 
 This project presents an IoT-based Smart Home Control System developed using ESP32. It enables users to remotely control household electrical appliances through a Wi-Fi connection. The system provides a simple, reliable, and cost-effective solution for smart home automation.
 
 ## Objectives
